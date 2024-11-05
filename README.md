@@ -1,1 +1,0 @@
-# acessibilidae.svg
